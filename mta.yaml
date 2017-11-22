@@ -3,7 +3,7 @@ ID: "com.demo.northwind"
 version: 1.0.0
 
 parameters:
-  hcp-deployer-version: "1.0.0"
+  hcp-deployer-version: "1.0.1"
 
 modules:
   - name: "fiorinorthwind"
